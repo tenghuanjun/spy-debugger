@@ -49,7 +49,7 @@ Mac 下
     sudo npm install spy-debugger -g
 ```
 安装证书
-
+```
 第一步：生成证书
 
 spy-debugger initCA
@@ -58,7 +58,7 @@ spy-debugger initCA
 第二步：安装证书
 
 把node-mitmproxy文件夹下的 node-mitmproxy.ca.crt 传到手机上，点击安装即可。
-
+```
 ## 三分钟上手
 >  
 第一步：手机和PC保持在同一网络下（比如同时连到一个Wi-Fi下）
